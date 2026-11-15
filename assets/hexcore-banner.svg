@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="244" viewBox="0 0 900 244" role="img" aria-labelledby="title desc">
+  <title id="title">Siabul Hassan · @HexCore99</title>
+  <desc id="desc">A mint HC monogram on a black keycap beside Siabul Hassan's name. Desktop tools, web apps, and machine learning.</desc>
+  <defs>
+    <pattern id="grid" patternUnits="userSpaceOnUse" width="22" height="22">
+      <path d="M22 0H0v22" fill="none" stroke="#9a7ed5" stroke-width="1.5"/>
+    </pattern>
+    <pattern id="checks" patternUnits="userSpaceOnUse" width="20" height="20">
+      <rect width="20" height="20" fill="#fff6df"/>
+      <path d="M0 0h10v10H0zm10 10h10v10H10z" fill="#25212a"/>
+    </pattern>
+  </defs>
+  <path fill="#201e24" d="M8 9h892v235H8z"/>
+  <path fill="#bf9bff" stroke="#201e24" stroke-width="5" d="M3 3h886v230H3z"/>
+  <path fill="url(#grid)" d="M6 6h220v224H6z"/>
+  <path fill="#201e24" d="M226 4h5v227h-5z"/>
+  <!-- An oversized keyboard key with a hand-drawn HC monogram. -->
+  <g transform="rotate(-8 115 117)" stroke="#201e24" stroke-width="5" stroke-linejoin="round">
+    <path d="M40 53h140l14 14v120H47l-13-14V60z" fill="#201e24"/>
+    <path d="M34 52h141v118H34z" fill="#91eac1"/>
+    <path d="m34 170 13 12h140l-12-12zm141-118 12 12v118l-12-12z" fill="#52b791"/>
+    <path stroke="none" fill="#201e24" d="M53 80h12v24h22V80h12v64H87v-28H65v28H53zm66 0h36v12h-29l-6 6v28l6 6h29v12h-36l-11-12V92z"/>
+  </g>
+  <!-- A paper nameplate with a hard offset shadow. -->
+  <path d="M259 69h611v98H259z" fill="#201e24"/>
+  <path d="M252 62h611v97H252z" fill="#fff6df" stroke="#201e24" stroke-width="4"/>
+  <g fill="#201e24" font-family="Arial Black, Arial, sans-serif" font-weight="900">
+    <text x="266" y="135" font-size="63" letter-spacing="-3">SIABUL HASSAN</text>
+  </g>
+  <path d="M253 18h172v47H253z" fill="#ffdc49" stroke="#201e24" stroke-width="4"/>
+  <text x="266" y="48" font-family="Consolas, monospace" font-weight="bold" font-size="23" fill="#201e24">@HexCore99</text>
+  <path d="M784 18h79v20h-79z" fill="url(#checks)" stroke="#201e24" stroke-width="3"/>
+  <path d="M230 184h657v47H230z" fill="#ff947d"/>
+  <path d="M230 183h658" stroke="#201e24" stroke-width="4"/>
+  <text x="253" y="215" font-family="Arial, sans-serif" font-weight="bold" font-size="23" fill="#201e24">Desktop tools, web apps &amp; machine learning</text>
+</svg>

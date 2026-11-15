@@ -1,4 +1,4 @@
-![Siabul Hassan · @HexCore99 · Desktop tools, web apps, and machine learning](./assets/masthead.svg)
+![Siabul Hassan · @HexCore99 · Desktop tools, web apps, and machine learning](./assets/hexcore-banner.svg)
 
 [**Portfolio ↗**](https://siabulhassan.xyz/)　·　[LinkedIn](https://www.linkedin.com/in/siabul-hassan/)　·　[Email](mailto:siabulhassan@gmail.com)
 
