@@ -1,4 +1,4 @@
-![Siabul Hassan (@HexCore99) · Windows utilities and web apps](./header.svg)
+![Siabul Hassan (@HexCore99) · Windows utilities and web apps](./assets/profile-terminal.svg)
 
 <p align="center">
   <a href="https://siabulhassan.xyz/"><b>Portfolio ↗</b></a>
@@ -12,15 +12,19 @@ I build Windows utilities in Rust and apps for the web. WhoLocks started with a 
 
 ## Project inventory
 
-**[WhoLocks](https://github.com/HexCore99/wholocks)** · `Rust` `Windows API`<br>
-Find out which process is locking a file or folder from File Explorer or the command line.
-
-**[Taskora](https://github.com/HexCore99/Taskora)** · `Tauri` `React` `Rust` `SQLite`<br>
-Organize tasks on an offline Kanban board. Your data stays on your machine.
-
-**[QuickJudge](https://github.com/HexCore99/QuickJudge)** · `React` `Express` `MySQL`<br>
-Submit a solution, check the verdict, and follow the contest leaderboard.
+<p>
+  <a href="https://github.com/HexCore99/wholocks"><img src="./assets/wholocks.svg" width="265" alt="WhoLocks — Find the process locking a file or folder. Rust and Windows API."></a>
+  <a href="https://github.com/HexCore99/Taskora"><img src="./assets/taskora.svg" width="265" alt="Taskora — Offline Kanban board. Tauri, React, Rust and SQLite."></a>
+  <a href="https://github.com/HexCore99/QuickJudge"><img src="./assets/quickjudge.svg" width="265" alt="QuickJudge — Submit solutions and check contest verdicts. React, Express and MySQL."></a>
+</p>
 
 ## At the university
 
-I study Computer Science and Engineering at United International University and help teach Data Structures and Algorithms I and II. My [C and C++ programming solutions](https://github.com/HexCore99/hexcore99.github.io) are on GitHub.
+<table>
+  <tr>
+    <td align="center"><img src="./assets/textbook.svg" width="72" alt=""></td>
+    <td><strong>United International University</strong><br>
+    I study Computer Science and Engineering and help teach Data Structures and Algorithms I and II.<br>
+    <a href="https://github.com/HexCore99/hexcore99.github.io">Browse my C and C++ programming solutions ↗</a></td>
+  </tr>
+</table>
