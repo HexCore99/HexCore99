@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="166" viewBox="0 0 380 166" role="img" aria-labelledby="title desc">
+  <title id="title">Taskora</title>
+  <desc id="desc">An offline Kanban board that keeps your tasks on your machine. Tauri / React / SQLite.</desc>
+  <path fill="#211d24" d="M7 7h373v159H7z"/>
+  <path fill="#fff8e7" stroke="#211d24" stroke-width="3" d="M2 2h370v156H2z"/>
+  <path fill="#bb9bff" stroke="#211d24" stroke-width="3" d="M2 2h370v33H2z"/>
+  <path fill="#211d24" d="M337 2h35v33h-35z"/>
+  <path fill="none" stroke="#fff8e7" stroke-width="3" d="m347 25 14-14m-12 0h12v12"/>
+  <g fill="#211d24">
+    <text x="14" y="24" font-family="Consolas, monospace" font-weight="bold" font-size="15" letter-spacing="1">DESKTOP APP</text>
+    <g font-family="Arial, sans-serif">
+      <text x="13" y="73" font-weight="900" font-size="32">Taskora</text>
+      <text x="15" y="98" font-size="16">An offline Kanban board that keeps</text>
+      <text x="15" y="118" font-size="16">your tasks on your machine.</text>
+    </g>
+    <text x="15" y="146" font-family="Consolas, monospace" font-weight="bold" font-size="14">Tauri / React / SQLite</text>
+  </g>
+</svg>

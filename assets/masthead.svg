@@ -1,32 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="204" viewBox="0 0 880 204" role="img" aria-labelledby="title desc">
-  <title id="title">Siabul Hassan · HexCore99</title>
-  <desc id="desc">Desktop tools, web apps, and machine learning. Three exploded hexagonal layers illustrate the HexCore name.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="222" viewBox="0 0 880 222" role="img" aria-labelledby="title desc">
+  <title id="title">Siabul Hassan · @HexCore99</title>
+  <desc id="desc">Desktop tools, web apps, and machine learning. Three brightly colored hexagons form the HexCore mark.</desc>
   <defs>
-    <pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#813a23" opacity=".50"/>
+    <pattern id="dots" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.4" fill="#211d24"/>
     </pattern>
-    <g id="plate" stroke="#28251f" stroke-width="2" stroke-linejoin="round">
-      <path d="m0 -31 53 16v30L0 31l-53-16v-30z"/>
-      <path d="m-53 15 53 16 53-16v6L0 38l-53-17z" fill="#302d28"/>
+    <g id="slab" stroke="#211d24" stroke-width="4" stroke-linejoin="round">
+      <path d="m0-28 66 20v22L0 34l-66-20V-8z"/>
+      <path d="m-66 14 66 20 66-20v7L0 42l-66-21z" fill="#211d24"/>
     </g>
   </defs>
-  <rect width="880" height="204" fill="#20231f"/>
-  <path d="M0 8h558l16-8h306v204H0z" fill="#272b26"/>
-  <path d="M609 0h271v204H554z" fill="#fa905d"/>
-  <path d="M609 0h271v204H554z" fill="url(#dots)"/>
-  <g font-family="Consolas, monospace" fill="#ffc19d">
-    <text x="36" y="46" font-size="20">@HexCore99</text>
+  <path fill="#211d24" d="M9 10h871v212H9z"/>
+  <path fill="#ffdf50" stroke="#211d24" stroke-width="5" d="M3 3h865v207H3z"/>
+  <path fill="#ff856e" stroke="#211d24" stroke-width="5" d="M621 3h247v207H589z"/>
+  <path fill="url(#dots)" d="M624 6h241v201H593z"/>
+  <g transform="translate(730 99)">
+    <use href="#slab" y="40" fill="#bc9eff"/>
+    <use href="#slab" y="5" fill="#fff8e7"/>
+    <use href="#slab" y="-30" fill="#9fe4bf"/>
+    <path fill="#211d24" d="m0-44 28 8v13L0-15l-28-8v-13z"/>
   </g>
-  <text x="32" y="121" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="#fff4e4">Siabul Hassan</text>
-  <path d="M37 146h46" stroke="#fa905d" stroke-width="3"/>
-  <text x="36" y="177" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#e4e3d4">Desktop tools, web apps &amp; machine learning</text>
-  <g transform="translate(727 99)">
-    <path d="m-69 55 69-22 69 22-69 22z" fill="#8e4b32" opacity=".45"/>
-    <path d="M0-80V79m-62-93v77m124-77v77" stroke="#764e39" stroke-dasharray="3 5" fill="none"/>
-    <use href="#plate" y="31" fill="#b4bba6"/>
-    <use href="#plate" y="4" fill="#ece7d2"/>
-    <use href="#plate" y="-23" fill="#ffbe8b"/>
-    <path d="m0-40 27 8v17L0-7l-27-8v-17z" fill="#292d27"/>
-    <path d="m0-33 15 5v9l-15 5-15-5v-9z" fill="#ff9865"/>
+  <g fill="#211d24">
+    <path d="M32 28h154v36H32z"/>
+    <text x="46" y="53" fill="#fff8e7" font-family="Consolas, monospace" font-size="21" font-weight="bold">@HexCore99</text>
+    <text x="28" y="139" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="63" letter-spacing="-3">SIABUL HASSAN</text>
+    <text x="34" y="181" font-family="Arial, sans-serif" font-weight="bold" font-size="23">Desktop tools, web apps &amp; machine learning</text>
   </g>
 </svg>
