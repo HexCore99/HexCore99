@@ -13,7 +13,7 @@
 
 ## Languages
 
-![Languages I've worked with: Rust, JavaScript, TypeScript, Python, C, C++, SQL, PowerShell, HTML, and CSS.](./assets/languages.svg)
+![Languages I've worked with: Rust, JavaScript, TypeScript, Python, C, C++, SQL, PowerShell, HTML, and CSS.](./assets/language-badges.svg)
 
 ## Study & teaching
 
