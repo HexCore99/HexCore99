@@ -1,6 +1,10 @@
 ![Siabul Hassan · @HexCore99 · Desktop tools, web apps, and machine learning](./assets/hexcore-banner.svg)
 
-[**Portfolio ↗**](https://siabulhassan.xyz/)　·　[LinkedIn](https://www.linkedin.com/in/siabul-hassan/)　·　[Email](mailto:siabulhassan@gmail.com)
+<p align="center">
+  <a href="https://siabulhassan.xyz/"><img src="./assets/contact-portfolio.svg" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/siabul-hassan/"><img src="./assets/contact-linkedin.svg" alt="LinkedIn"></a>
+  <a href="mailto:siabulhassan@gmail.com"><img src="./assets/contact-email.svg" alt="Email"></a>
+</p>
 
 ## Selected work
 
