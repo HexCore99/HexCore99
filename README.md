@@ -1,30 +1,18 @@
-![Siabul Hassan (@HexCore99) · Windows utilities and web apps](./assets/profile-terminal.svg)
+![Siabul Hassan · @HexCore99 · Desktop tools, web apps, and machine learning](./assets/masthead.svg)
 
-I build Windows utilities in Rust and apps for the web. WhoLocks started with a question I kept running into: *which process is holding this file open?*
+[**Portfolio ↗**](https://siabulhassan.xyz/)　·　[LinkedIn](https://www.linkedin.com/in/siabul-hassan/)　·　[Email](mailto:siabulhassan@gmail.com)
 
-<p>
-  <a href="https://siabulhassan.xyz/"><b>Portfolio ↗</b></a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/siabul-hassan/">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:siabulhassan@gmail.com">Email</a>
-</p>
+## Selected work
 
-## Selected projects
+| Project | What it does |
+| :--- | :--- |
+| [**Taskora ↗**](https://github.com/HexCore99/Taskora) | A desktop Kanban board that keeps your tasks on your machine and works offline. <br> `Tauri` `React` `SQLite` |
+| [**WhoLocks ↗**](https://github.com/HexCore99/wholocks) | Shows which Windows process is holding a file or folder open, from Explorer or the command line. <br> `Rust` `Windows API` |
+| [**QuickJudge ↗**](https://github.com/HexCore99/QuickJudge) | A programming contest platform where you can submit code, see the verdict, and follow the leaderboard. <br> `React` `Express` `MySQL` |
+| [**Neural Movie Recommender ↗**](https://github.com/HexCore99/neural-movie-recommender) | Recommends films using neural collaborative filtering. <br> `TensorFlow` `Flask` `Next.js` |
 
-<p align="center">
-  <a href="https://github.com/HexCore99/wholocks"><img src="./assets/wholocks.svg" width="265" alt="WhoLocks — Find the process locking a file or folder. Rust and Windows API."></a>
-  <a href="https://github.com/HexCore99/Taskora"><img src="./assets/taskora.svg" width="265" alt="Taskora — Offline Kanban board. Tauri, React, Rust and SQLite."></a>
-  <a href="https://github.com/HexCore99/QuickJudge"><img src="./assets/quickjudge.svg" width="265" alt="QuickJudge — Submit solutions and check contest verdicts. React, Express and MySQL."></a>
-</p>
+## Study & teaching
 
-## At the university
+I study Computer Science and Engineering at **United International University**, where I help teach Data Structures and Algorithms I and II.
 
-<table>
-  <tr>
-    <td align="center"><img src="./assets/textbook.svg" width="72" alt=""></td>
-    <td><strong>United International University</strong><br>
-    I study Computer Science and Engineering and help teach Data Structures and Algorithms I and II.<br>
-    <a href="https://github.com/HexCore99/hexcore99.github.io">Browse my C and C++ programming solutions ↗</a></td>
-  </tr>
-</table>
+[Browse my C and C++ programming solutions ↗](https://github.com/HexCore99/hexcore99.github.io)

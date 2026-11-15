@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 44 44">
-  <title>Open pixel-art textbook</title>
-  <path fill="#242334" stroke="#85789a" d="M4 1h36v3h3v36h-3v3H4v-3H1V4h3z"/>
-  <path fill="#9884ba" d="M5 13h13l4 3 4-3h13v19H26l-4 3-4-3H5z"/>
-  <path fill="#eee3ce" d="M7 10h11l3 2v18l-3-2H7z"/>
-  <path fill="#cbbea9" d="M23 12l3-2h11v18H26l-3 2z"/>
-  <path fill="#9a8794" d="M10 15h7v2h-7zm0 5h7v2h-7zm17-5h7v2h-7zm0 5h7v2h-7z"/>
-  <path fill="#ade8c1" d="M30 10h4v10l-2-2-2 2z"/>
-</svg>
