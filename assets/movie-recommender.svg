@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="380" height="166" viewBox="0 0 380 166" role="img" aria-labelledby="title desc">
   <title id="title">Neural Movie Recommender</title>
-  <desc id="desc">Find films with a recommendation model trained using neural collaborative filtering. TensorFlow / Flask / Next.js.</desc>
+  <desc id="desc">Find films with a recommendation model trained using neural collaborative filtering. Python, TensorFlow, Flask, Next.js.</desc>
   <path fill="#211d24" d="M7 7h373v159H7z"/>
   <path fill="#fff8e7" stroke="#211d24" stroke-width="3" d="M2 2h370v156H2z"/>
   <path fill="#ffdf50" stroke="#211d24" stroke-width="3" d="M2 2h370v33H2z"/>
@@ -13,6 +13,15 @@
       <text x="15" y="98" font-size="16">Find films with a recommendation model</text>
       <text x="15" y="118" font-size="16">trained using neural collaborative filtering.</text>
     </g>
-    <text x="15" y="146" font-family="Consolas, monospace" font-weight="bold" font-size="14">TensorFlow / Flask / Next.js</text>
+    <g font-family="Consolas, monospace" font-size="14" font-weight="bold" text-anchor="middle">
+      <rect x="15" y="129" width="60" height="22" fill="#96c8ff" stroke="#211d24" stroke-width="2"/>
+      <text x="45" y="145">Python</text>
+      <rect x="80" y="129" width="92" height="22" fill="#fff8e7" stroke="#211d24" stroke-width="2"/>
+      <text x="126" y="145">TensorFlow</text>
+      <rect x="177" y="129" width="52" height="22" fill="#fff8e7" stroke="#211d24" stroke-width="2"/>
+      <text x="203" y="145">Flask</text>
+      <rect x="234" y="129" width="68" height="22" fill="#fff8e7" stroke="#211d24" stroke-width="2"/>
+      <text x="268" y="145">Next.js</text>
+    </g>
   </g>
 </svg>

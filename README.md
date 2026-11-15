@@ -5,10 +5,10 @@
 ## Selected work
 
 <p>
-  <a href="https://github.com/HexCore99/Taskora"><img src="./assets/taskora.svg" width="372" alt="Taskora — An offline Kanban board that keeps your tasks on your machine. Tauri / React / SQLite."></a>
-  <a href="https://github.com/HexCore99/wholocks"><img src="./assets/wholocks.svg" width="372" alt="WhoLocks — Find the process locking a file or folder from Explorer or the terminal. Rust / Windows API."></a>
-  <a href="https://github.com/HexCore99/QuickJudge"><img src="./assets/quickjudge.svg" width="372" alt="QuickJudge — Submit code, check the verdict, and follow the contest leaderboard. React / Express / MySQL."></a>
-  <a href="https://github.com/HexCore99/neural-movie-recommender"><img src="./assets/movie-recommender.svg" width="372" alt="Neural Movie Recommender — Find films with a recommendation model trained using neural collaborative filtering. TensorFlow / Flask / Next.js."></a>
+  <a href="https://github.com/HexCore99/Taskora"><img src="./assets/taskora.svg" width="372" alt="Taskora — An offline Kanban board that keeps your tasks on your machine. JavaScript, Rust, Tauri, React, SQLite."></a>
+  <a href="https://github.com/HexCore99/wholocks"><img src="./assets/wholocks.svg" width="372" alt="WhoLocks — Find the process locking a file or folder from Explorer or the terminal. Rust, Windows API."></a>
+  <a href="https://github.com/HexCore99/QuickJudge"><img src="./assets/quickjudge.svg" width="372" alt="QuickJudge — Submit code, check the verdict, and follow the contest leaderboard. JavaScript, Python, React, Express, MySQL."></a>
+  <a href="https://github.com/HexCore99/neural-movie-recommender"><img src="./assets/movie-recommender.svg" width="372" alt="Neural Movie Recommender — Find films with a recommendation model trained using neural collaborative filtering. Python, TensorFlow, Flask, Next.js."></a>
 </p>
 
 ## Study & teaching

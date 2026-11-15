@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="380" height="166" viewBox="0 0 380 166" role="img" aria-labelledby="title desc">
   <title id="title">WhoLocks</title>
-  <desc id="desc">Find the process locking a file or folder from Explorer or the terminal. Rust / Windows API.</desc>
+  <desc id="desc">Find the process locking a file or folder from Explorer or the terminal. Rust, Windows API.</desc>
   <path fill="#211d24" d="M7 7h373v159H7z"/>
   <path fill="#fff8e7" stroke="#211d24" stroke-width="3" d="M2 2h370v156H2z"/>
   <path fill="#8fe1bb" stroke="#211d24" stroke-width="3" d="M2 2h370v33H2z"/>
@@ -13,6 +13,11 @@
       <text x="15" y="98" font-size="16">Find the process locking a file or</text>
       <text x="15" y="118" font-size="16">folder from Explorer or the terminal.</text>
     </g>
-    <text x="15" y="146" font-family="Consolas, monospace" font-weight="bold" font-size="14">Rust / Windows API</text>
+    <g font-family="Consolas, monospace" font-size="14" font-weight="bold" text-anchor="middle">
+      <rect x="15" y="129" width="44" height="22" fill="#ffa289" stroke="#211d24" stroke-width="2"/>
+      <text x="37" y="145">Rust</text>
+      <rect x="64" y="129" width="100" height="22" fill="#fff8e7" stroke="#211d24" stroke-width="2"/>
+      <text x="114" y="145">Windows API</text>
+    </g>
   </g>
 </svg>
