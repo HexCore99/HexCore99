@@ -1,15 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="292" height="184" viewBox="0 0 292 184">
-  <title>QuickJudge — Online judge</title>
-  <path fill="#171923" stroke="#726d89" stroke-width="2" d="M8 1h276v6h7v170h-7v6H8v-6H1V7h7z"/>
-  <path fill="#453825" d="M10 10h272v52H10z"/>
-  <g transform="translate(20 19) scale(1.5)" fill="#f5cf8d" shape-rendering="crispEdges"><path d="M5 3h14v2h4v7h-2v2h-4v2h-3v3h4v3H6v-3h4v-3H7v-2H3v-2H1V5h4zm0 4H3v4h2zm14 0v4h2V7z" fill-rule="evenodd"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="292" height="212" viewBox="0 0 292 212">
+  <title>QuickJudge — online judge</title>
+  <defs>
+    <pattern id="grid" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="1" height="1" fill="#f5cf8d" opacity=".35"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="290" height="210" rx="5" fill="#181923" stroke="#726d89" stroke-width="2"/>
+  <rect x="6" y="6" width="280" height="77" fill="#453825"/>
+  <rect x="6" y="6" width="280" height="77" fill="url(#grid)"/>
+  <g shape-rendering="crispEdges">
+    <!-- Code editor with a passing verdict. -->
+    <path fill="#282424" stroke="#b99c72" stroke-width="2" d="M60 15h148v56H60z"/>
+    <path fill="#77634e" d="M61 16h146v9H61z"/>
+    <path fill="#f2d69f" d="M66 19h4v3h-4zm8 0h4v3h-4zM74 35h24v4H74zm8 10h18v4H82z"/>
+    <path fill="#c1adcc" d="M103 35h38v4h-38zm2 10h19v4h-19zm-23 10h52v4H82z"/>
+    <path fill="#25372e" stroke="#aedab8" stroke-width="2" d="M163 43h68v31h-68z"/>
+    <path fill="#b7e5c2" d="M179 55h4v4h4v4h-4v-4h-4zm8 4h4v-4h4v-4h4v4h-4v4h-4v4h-4zM203 55h14v3h-14zm0 6h10v2h-10z"/>
+  </g>
   <g font-family="Consolas, monospace">
-    <text x="68" y="44" fill="#fff8ec" font-weight="bold" font-size="23">QuickJudge</text>
-    <path fill="#f5cf8d" d="M253 25h12v12h-3v-7l-9 9-2-2 9-9h-7z"/>
-    <text x="18" y="84" fill="#f5cf8d" font-size="13" letter-spacing="1">ONLINE JUDGE</text>
-    <text x="18" y="109" fill="#eeeaf2" font-size="17">Submit a solution and</text>
-    <text x="18" y="131" fill="#eeeaf2" font-size="17">see the contest verdict.</text>
-    <path stroke="#434252" d="M18 146h256"/>
-    <text x="18" y="168" fill="#c6c3d4" font-size="14">React / Express / MySQL</text>
+    <text x="15" y="102" fill="#f5cf8d" font-size="12" letter-spacing="1">ONLINE JUDGE</text>
+    <text x="14" y="128" fill="#fff8ec" font-weight="bold" font-size="25">QuickJudge</text>
+    <path fill="#f5cf8d" d="M259 113h13v13h-3v-8l-10 10-2-2 10-10h-8z"/>
+    <text x="15" y="151" fill="#e3dfeb" font-size="16">Submit a solution and</text>
+    <text x="15" y="171" fill="#e3dfeb" font-size="16">see the contest verdict.</text>
+    <path stroke="#434252" d="M15 183h262"/>
+    <text x="15" y="201" fill="#c6c3d4" font-size="14">React / Express / MySQL</text>
   </g>
 </svg>
