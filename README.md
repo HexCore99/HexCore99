@@ -19,6 +19,10 @@
 
 ![Languages I've worked with: Rust, JavaScript, TypeScript, Python, C, C++, SQL, PowerShell, HTML, and CSS.](./assets/language-badges.svg)
 
+## Frameworks
+
+![React, Next.js, SvelteKit, Express, Flask, TensorFlow, Tauri, and GPUI](./assets/framework-badges.svg)
+
 ## Study & teaching
 
 I study Computer Science and Engineering at **United International University**, where I help teach Data Structures and Algorithms I and II.
