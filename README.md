@@ -1,4 +1,4 @@
-![Siabul Hassan — Software developer](./header.svg)
+![Siabul Hassan (@HexCore99) · Windows utilities and web apps](./header.svg)
 
 <p align="center">
   <a href="https://siabulhassan.xyz/"><b>Portfolio ↗</b></a>
@@ -8,22 +8,19 @@
   <a href="mailto:siabulhassan@gmail.com">Email</a>
 </p>
 
-I build Windows utilities in Rust and apps for the web. I like software that answers a specific question, like *which process is holding this file open?* That question became WhoLocks.
+I build Windows utilities in Rust and apps for the web. WhoLocks started with a question I kept running into: *which process is holding this file open?*
 
-## Selected builds
+## Project inventory
 
-#### [WhoLocks ↗](https://github.com/HexCore99/wholocks) &nbsp; · &nbsp; Windows utility
-Find the process locking a file or folder, right from File Explorer or the command line.  
-`Rust` `Windows API`
+**[WhoLocks](https://github.com/HexCore99/wholocks)** · `Rust` `Windows API`<br>
+Find out which process is locking a file or folder from File Explorer or the command line.
 
-#### [Taskora ↗](https://github.com/HexCore99/Taskora) &nbsp; · &nbsp; Local-first desktop app
-Organize tasks on a Kanban board that works offline and keeps your data on your machine.  
-`Tauri` `React` `Rust` `SQLite`
+**[Taskora](https://github.com/HexCore99/Taskora)** · `Tauri` `React` `Rust` `SQLite`<br>
+Organize tasks on an offline Kanban board. Your data stays on your machine.
 
-#### [QuickJudge ↗](https://github.com/HexCore99/QuickJudge) &nbsp; · &nbsp; Online judge
-Submit a solution, check the verdict, and follow the contest leaderboard.  
-`React` `Express` `MySQL`
+**[QuickJudge](https://github.com/HexCore99/QuickJudge)** · `React` `Express` `MySQL`<br>
+Submit a solution, check the verdict, and follow the contest leaderboard.
 
----
+## At the university
 
-**At United International University** · I study Computer Science and Engineering and help teach Data Structures and Algorithms I and II. You can browse my [C and C++ programming solutions ↗](https://github.com/HexCore99/hexcore99.github.io).
+I study Computer Science and Engineering at United International University and help teach Data Structures and Algorithms I and II. My [C and C++ programming solutions](https://github.com/HexCore99/hexcore99.github.io) are on GitHub.
