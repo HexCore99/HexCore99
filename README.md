@@ -11,6 +11,10 @@
   <a href="https://github.com/HexCore99/neural-movie-recommender"><img src="./assets/movie-recommender.svg" width="372" alt="Neural Movie Recommender — Find films with a recommendation model trained using neural collaborative filtering. Python, TensorFlow, Flask, Next.js."></a>
 </p>
 
+## Languages
+
+![Languages I've worked with: Rust, JavaScript, TypeScript, Python, C, C++, SQL, PowerShell, HTML, and CSS.](./assets/languages.svg)
+
 ## Study & teaching
 
 I study Computer Science and Engineering at **United International University**, where I help teach Data Structures and Algorithms I and II.
