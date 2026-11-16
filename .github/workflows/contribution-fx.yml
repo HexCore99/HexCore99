@@ -1,0 +1,29 @@
+name: Generate railgun contribution animation
+
+on:
+  schedule:
+    - cron: "15 18 * * *" # 00:15 Asia/Dhaka; GitHub cron uses UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate light and dark railgun SVGs
+        uses: Sur1ive/contribution-fx@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/contribution-fx.svg?theme=railgun&palette=github&mode=light
+            dist/contribution-fx-dark.svg?theme=railgun&palette=github&mode=dark
+
+      - name: Publish generated SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
