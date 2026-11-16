@@ -29,3 +29,20 @@
 I study Computer Science and Engineering at **United International University**, where I help teach Data Structures and Algorithms I and II.
 
 [Browse my C and C++ programming solutions ↗](https://github.com/HexCore99/hexcore99.github.io)
+
+## GitHub activity
+
+### Seasonal 3D contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Seasonal 3D visualization of my GitHub contributions" />
+</p>
+
+### Railgun contribution animation
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HexCore99/HexCore99/output/contribution-fx-dark.svg" />
+    <img src="https://raw.githubusercontent.com/HexCore99/HexCore99/output/contribution-fx.svg" alt="Railgun animation across my GitHub contribution graph" />
+  </picture>
+</p>
