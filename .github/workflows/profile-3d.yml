@@ -21,6 +21,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Replay the seasonal animation every 30 seconds
+        run: node .github/scripts/loop-season.mjs
+
       - name: Commit generated images
         run: |
           git config user.name "github-actions[bot]"
